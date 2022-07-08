@@ -1,4 +1,4 @@
-# Landing page - SmartLearn
+# Landing page - SmartLearn (🔧 em construção)
 
 Projeto para construir uma Landing page de uma página de conteúdo educacional
 
